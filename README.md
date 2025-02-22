@@ -1,5 +1,5 @@
 ![logo](https://github.com/DipanApril23/DipanApril23/blob/main/GitBanner.jpg)
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Dipan Majumder</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Satarup Mondal</h1>
 
 ###
 
